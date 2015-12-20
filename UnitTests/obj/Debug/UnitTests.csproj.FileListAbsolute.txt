@@ -1,0 +1,47 @@
+C:\Users\Omar\Downloads\2-Apriori Source Code\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\Omar\Downloads\2-Apriori Source Code\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\Omar\Downloads\2-Apriori Source Code\UnitTests\bin\Debug\AprioriAlgorithm.dll
+C:\Users\Omar\Downloads\2-Apriori Source Code\UnitTests\bin\Debug\AprioriAlgorithm.pdb
+C:\Users\Omar\Downloads\2-Apriori Source Code\UnitTests\bin\Debug\AprioriAlgorithm_Accessor.dll
+C:\Users\Omar\Downloads\2-Apriori Source Code\UnitTests\bin\Debug\AprioriAlgorithm_Accessor.pdb
+C:\Users\Omar\Downloads\2-Apriori Source Code\UnitTests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Omar\Downloads\2-Apriori Source Code\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\Omar\Downloads\2-Apriori Source Code\UnitTests\obj\Debug\UnitTests.pdb
+C:\Users\Omar\Desktop\Git\Apriori Source Code\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\Omar\Desktop\Git\Apriori Source Code\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\Omar\Desktop\Git\Apriori Source Code\UnitTests\bin\Debug\AprioriAlgorithm.dll
+C:\Users\Omar\Desktop\Git\Apriori Source Code\UnitTests\bin\Debug\AprioriAlgorithm.pdb
+C:\Users\Omar\Desktop\Git\Apriori Source Code\UnitTests\bin\Debug\AprioriAlgorithm_Accessor.dll
+C:\Users\Omar\Desktop\Git\Apriori Source Code\UnitTests\bin\Debug\AprioriAlgorithm_Accessor.pdb
+C:\Users\Omar\Desktop\Git\Apriori Source Code\UnitTests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Omar\Desktop\Git\Apriori Source Code\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\Omar\Desktop\Git\Apriori Source Code\UnitTests\obj\Debug\UnitTests.pdb
+D:\Git\Apriori Source Code\UnitTests\bin\Debug\UnitTests.dll
+D:\Git\Apriori Source Code\UnitTests\bin\Debug\UnitTests.pdb
+D:\Git\Apriori Source Code\UnitTests\bin\Debug\AprioriAlgorithm.dll
+D:\Git\Apriori Source Code\UnitTests\bin\Debug\Moq.dll
+D:\Git\Apriori Source Code\UnitTests\bin\Debug\WPFClient.exe
+D:\Git\Apriori Source Code\UnitTests\bin\Debug\AprioriAlgorithm.pdb
+D:\Git\Apriori Source Code\UnitTests\bin\Debug\WPFClient.pdb
+D:\Git\Apriori Source Code\UnitTests\bin\Debug\Moq.pdb
+D:\Git\Apriori Source Code\UnitTests\bin\Debug\Moq.xml
+D:\Git\Apriori Source Code\UnitTests\bin\Debug\AprioriAlgorithm_Accessor.dll
+D:\Git\Apriori Source Code\UnitTests\bin\Debug\AprioriAlgorithm_Accessor.pdb
+D:\Git\Apriori Source Code\UnitTests\obj\Debug\ResolveAssemblyReference.cache
+D:\Git\Apriori Source Code\UnitTests\obj\Debug\UnitTests.dll
+D:\Git\Apriori Source Code\UnitTests\obj\Debug\UnitTests.pdb
+D:\Work\Github\parallel-apriori\UnitTests\bin\Debug\UnitTests.dll
+D:\Work\Github\parallel-apriori\UnitTests\bin\Debug\UnitTests.pdb
+D:\Work\Github\parallel-apriori\UnitTests\bin\Debug\AprioriAlgorithm.dll
+D:\Work\Github\parallel-apriori\UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Work\Github\parallel-apriori\UnitTests\bin\Debug\Moq.dll
+D:\Work\Github\parallel-apriori\UnitTests\bin\Debug\WPFClient.exe
+D:\Work\Github\parallel-apriori\UnitTests\bin\Debug\AprioriAlgorithm.pdb
+D:\Work\Github\parallel-apriori\UnitTests\bin\Debug\WPFClient.pdb
+D:\Work\Github\parallel-apriori\UnitTests\bin\Debug\Moq.pdb
+D:\Work\Github\parallel-apriori\UnitTests\bin\Debug\Moq.xml
+D:\Work\Github\parallel-apriori\UnitTests\bin\Debug\AprioriAlgorithm_Accessor.dll
+D:\Work\Github\parallel-apriori\UnitTests\bin\Debug\AprioriAlgorithm_Accessor.pdb
+D:\Work\Github\parallel-apriori\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+D:\Work\Github\parallel-apriori\UnitTests\obj\Debug\UnitTests.dll
+D:\Work\Github\parallel-apriori\UnitTests\obj\Debug\UnitTests.pdb

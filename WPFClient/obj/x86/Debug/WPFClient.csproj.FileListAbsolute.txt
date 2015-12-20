@@ -1,0 +1,37 @@
+D:\Git\Apriori Source Code\WPFClient\bin\Debug\WPFClient.exe
+D:\Git\Apriori Source Code\WPFClient\bin\Debug\WPFClient.pdb
+D:\Git\Apriori Source Code\WPFClient\bin\Debug\AprioriAlgorithm.dll
+D:\Git\Apriori Source Code\WPFClient\bin\Debug\AprioriAlgorithm.pdb
+D:\Git\Apriori Source Code\WPFClient\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Git\Apriori Source Code\WPFClient\obj\x86\Debug\Views\Result.baml
+D:\Git\Apriori Source Code\WPFClient\obj\x86\Debug\Views\Result.g.cs
+D:\Git\Apriori Source Code\WPFClient\obj\x86\Debug\Views\MainWindow.g.cs
+D:\Git\Apriori Source Code\WPFClient\obj\x86\Debug\App.g.cs
+D:\Git\Apriori Source Code\WPFClient\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Git\Apriori Source Code\WPFClient\obj\x86\Debug\WPFClient_MarkupCompile.cache
+D:\Git\Apriori Source Code\WPFClient\obj\x86\Debug\WPFClient_MarkupCompile.lref
+D:\Git\Apriori Source Code\WPFClient\obj\x86\Debug\Views\MainWindow.baml
+D:\Git\Apriori Source Code\WPFClient\obj\x86\Debug\WPFClient.g.resources
+D:\Git\Apriori Source Code\WPFClient\obj\x86\Debug\WPFClient.Properties.Resources.resources
+D:\Git\Apriori Source Code\WPFClient\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Git\Apriori Source Code\WPFClient\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Git\Apriori Source Code\WPFClient\obj\x86\Debug\WPFClient.exe
+D:\Git\Apriori Source Code\WPFClient\obj\x86\Debug\WPFClient.pdb
+D:\Work\Github\parallel-apriori\WPFClient\obj\x86\Debug\WPFClient.exe
+D:\Work\Github\parallel-apriori\WPFClient\obj\x86\Debug\WPFClient.pdb
+D:\Work\Github\parallel-apriori\WPFClient\bin\Debug\WPFClient.exe
+D:\Work\Github\parallel-apriori\WPFClient\bin\Debug\WPFClient.pdb
+D:\Work\Github\parallel-apriori\WPFClient\bin\Debug\AprioriAlgorithm.dll
+D:\Work\Github\parallel-apriori\WPFClient\bin\Debug\AprioriAlgorithm.pdb
+D:\Work\Github\parallel-apriori\WPFClient\obj\x86\Debug\WPFClient.csprojResolveAssemblyReference.cache
+D:\Work\Github\parallel-apriori\WPFClient\obj\x86\Debug\Views\Result.baml
+D:\Work\Github\parallel-apriori\WPFClient\obj\x86\Debug\Views\Result.g.cs
+D:\Work\Github\parallel-apriori\WPFClient\obj\x86\Debug\Views\MainWindow.g.cs
+D:\Work\Github\parallel-apriori\WPFClient\obj\x86\Debug\App.g.cs
+D:\Work\Github\parallel-apriori\WPFClient\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Work\Github\parallel-apriori\WPFClient\obj\x86\Debug\WPFClient_MarkupCompile.cache
+D:\Work\Github\parallel-apriori\WPFClient\obj\x86\Debug\WPFClient_MarkupCompile.lref
+D:\Work\Github\parallel-apriori\WPFClient\obj\x86\Debug\Views\MainWindow.baml
+D:\Work\Github\parallel-apriori\WPFClient\obj\x86\Debug\WPFClient.g.resources
+D:\Work\Github\parallel-apriori\WPFClient\obj\x86\Debug\WPFClient.Properties.Resources.resources
+D:\Work\Github\parallel-apriori\WPFClient\obj\x86\Debug\WPFClient.csproj.GenerateResource.Cache

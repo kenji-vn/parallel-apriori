@@ -1,0 +1,15 @@
+D:\Work\Github\parallel-apriori\UnitTests\bin\Debug\UnitTests.dll
+D:\Work\Github\parallel-apriori\UnitTests\bin\Debug\UnitTests.pdb
+D:\Work\Github\parallel-apriori\UnitTests\bin\Debug\AprioriAlgorithm.dll
+D:\Work\Github\parallel-apriori\UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Work\Github\parallel-apriori\UnitTests\bin\Debug\Moq.dll
+D:\Work\Github\parallel-apriori\UnitTests\bin\Debug\WPFClient.exe
+D:\Work\Github\parallel-apriori\UnitTests\bin\Debug\AprioriAlgorithm.pdb
+D:\Work\Github\parallel-apriori\UnitTests\bin\Debug\WPFClient.pdb
+D:\Work\Github\parallel-apriori\UnitTests\bin\Debug\Moq.pdb
+D:\Work\Github\parallel-apriori\UnitTests\bin\Debug\Moq.xml
+D:\Work\Github\parallel-apriori\UnitTests\bin\Debug\AprioriAlgorithm_Accessor.dll
+D:\Work\Github\parallel-apriori\UnitTests\bin\Debug\AprioriAlgorithm_Accessor.pdb
+D:\Work\Github\parallel-apriori\UnitTests\obj\Debug\AprioriAlgorithm.Test.csprojResolveAssemblyReference.cache
+D:\Work\Github\parallel-apriori\UnitTests\obj\Debug\UnitTests.dll
+D:\Work\Github\parallel-apriori\UnitTests\obj\Debug\UnitTests.pdb
